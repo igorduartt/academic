@@ -11,8 +11,8 @@ locale                   : "en-US"
 title                    : "MSc. Igor Duarte / Portifolio"
 title_separator          : "-"
 name                     : &name "Igor Duarte"
-description              : &description "I am a psychologist with a master's degree in Psychiatry and Behavioral Sciences from the Federal University of Rio Grande do Sul (UFRGS) and an MBA in Data Science and Analytics from USP/Esalq. I am also a member of the Attention Deficit/Hyperactivity Disorders Program at the Hospital de Clínicas de Porto Alegre (PRODAH/HCPA/UFRGS). Additionally, I collaborate with the National Center for Research and Innovation in Mental Health, affiliated with the National Institute of Developmental Psychiatry at the University of São Paulo (CISM/USP)."
-url                      : https://igorduarte.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+description              : &description "personal description"
+url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
@@ -22,11 +22,11 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "MSc Igor Duarte"
+  name             : "MSc. Igor Duarte"
   pronouns         : # example: "she/her"  
-  bio              : "MSc. In Psychiatry and Behavioral Sciences"
+  bio              : "Master's degree in Psychiatry and Behavioral Sciences (UFRGS) | PhD student at the University of Sao Paulo"
   location         : "São Paulo, Brazil"
-  employer         : "Universiade de São Paulo"
+  employer         : "Universiade de São Paulo (USP)"
   uri              : # URL
   email            : "psi@igorduarte.com" 
 
@@ -43,7 +43,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : "igorduartt"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
