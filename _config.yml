@@ -8,10 +8,10 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "MSc. Igor Duarte / Portifolio"
+title                    : "Igor Duarte / Portifolio"
 title_separator          : "-"
 name                     : &name "Igor Duarte"
-description              : &description "personal description"
+description              : &description "PhD student at the University of Sao Paulo"
 url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
@@ -22,11 +22,11 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "MSc. Igor Duarte"
+  name             : "Igor Duarte"
   pronouns         : # example: "she/her"  
-  bio              : "Master's degree in Psychiatry and Behavioral Sciences (UFRGS) | PhD student at the University of Sao Paulo"
+  bio              : ""
   location         : "São Paulo, Brazil"
-  employer         : "Universidade de São Paulo (USP)"
+  employer         : "Universidade de São Paulo"
   uri              : # URL
   email            : "psi@igorduarte.com" 
 
