@@ -9,14 +9,14 @@ title                    : "Igor Duarte | Portfólio Acadêmico e de Pesquisa"
 title_separator          : "-"
 name                     : &name "Igor Duarte"
 description              : &description "Psicólogo, estudante de doutorado na Universidade de São Paulo, especializado em análise de dados e saúde mental"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://igorduartt.github.io/academic/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 author:
   # Biographic information
-  avatar           : "images/perfil.png"
+  avatar           : "perfil.png"
   name             : "Igor Duarte"
   pronouns         : "ele/dele"
   bio              : "Doutorando em Psiquiatria e Ciências do Comportamento, especializado em análise de dados e saúde mental, com experiência em machine learning e pesquisa clínica."
@@ -227,15 +227,6 @@ defaults:
     values:
       layout: single
       author_profile: true
-  # _teaching
-  - scope:
-      path: ""
-      type: teaching
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comments: true
   # _publications
   - scope:
       path: ""
@@ -245,23 +236,7 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _portfolio
-  - scope:
-      path: ""
-      type: portfolio
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comment: true
-  # _talks
-  - scope:
-      path: ""
-      type: talks
-    values:
-      layout: talk
-      author_profile: true
-      share: true
+
 
 # Sass/SCSS
 sass:
