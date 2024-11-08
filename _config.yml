@@ -16,7 +16,7 @@ repository               : "academicpages/academicpages.github.io"
 # Site Author - The following control what appear as part of the author content on the side bar.
 author:
   # Biographic information
-  avatar           : "perfil.png"
+  avatar           : "/images/profile.png"
   name             : "Igor Duarte"
   pronouns         : "ele/dele"
   bio              : "Doutorando em Psiquiatria e Ciências do Comportamento, especializado em análise de dados e saúde mental, com experiência em machine learning e pesquisa clínica."
