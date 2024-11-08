@@ -5,10 +5,10 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Igor Duarte | Portfólio Acadêmico e de Pesquisa"
+title                    : "Igor Duarte | Academic and Research Portfolio"
 title_separator          : "-"
 name                     : &name "Igor Duarte"
-description              : &description "Psicólogo, estudante de doutorado na Universidade de São Paulo, especializado em análise de dados e saúde mental"
+description              : &description "Psychologist, PhD student at the University of São Paulo, specialized in data analysis and mental health"
 url                      : https://igorduartt.github.io/academic/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
@@ -16,23 +16,23 @@ repository               : "academicpages/academicpages.github.io"
 # Site Author - The following control what appear as part of the author content on the side bar.
 author:
   # Biographic information
-  avatar           : "images/profile.png"
+  avatar           : "images/bio-photo.jpeg"
   name             : "Igor Duarte"
-  pronouns         : "ele/dele"
-  bio              : "Doutorando em Psiquiatria e Ciências do Comportamento, especializado em análise de dados e saúde mental, com experiência em machine learning e pesquisa clínica."
+  pronouns         : "he/him"
+  bio              : "PhD student in Psychiatry at the University of São Paulo. Specialized in data analysis and mental health, with experience in machine learning and clinical research."
   location         : "São Paulo, Brazil"
-  employer         : "Universidade de São Paulo"
+  employer         : "University of São Paulo"
   uri              : # URL
-  email            : "psi@igorduarte.com" 
+  email            : "igorduartebrazz@gmail.com"
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=YOUR_USER_ID"
+  googlescholar    : "https://scholar.google.com/citations?user=vH81lKQAAAAJ&hl=pt-BR"
   impactstory      : # URL
   orcid            : "https://orcid.org/my-orcid?orcid=0000-0002-5603-7051"
   semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  researchgate     : "https://www.researchgate.net/profile/Igor_Duarte"
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  researchgate     : "https://www.researchgate.net/profile/Igor-Duarte-4"
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
@@ -71,9 +71,9 @@ author:
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
   manuscripts:
-    title: 'Artigos Publicados'    
+    title: 'Published Articles'    
   conferences:
-    title: 'Trabalhos em Conferências'
+    title: 'Conference Papers'
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
