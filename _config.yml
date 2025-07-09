@@ -11,12 +11,12 @@ name                     : &name "Igor Duarte"
 description              : &description "Psychologist, PhD student at the University of São Paulo, specialized in data analysis and mental health"
 url                      : https://igorduartt.github.io/academic/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "igorduartt/academic"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 author:
   # Biographic information
-  avatar           : "images/bio-photo.jpeg"
+  avatar           : "perfil.jpeg"
   name             : "Igor Duarte"
   pronouns         : "he/him"
   bio              : "PhD student in Psychiatry at the University of São Paulo. Specialized in data analysis and mental health, with experience in machine learning and clinical research."
@@ -126,9 +126,9 @@ social:
   type                   : "Person"
   name                   : "Igor Duarte"
   links: # An array of links to social media profiles
-    - "https://linkedin.com/in/igorduarte"
+    - "https://www.linkedin.com/in/igorduarte"
     - "https://twitter.com/igorduartepsi"
-    - "https://www.researchgate.net/profile/Igor_Duarte"
+    - "https://www.researchgate.net/profile/Igor-Duarte-4"
 
 # Analytics
 analytics:

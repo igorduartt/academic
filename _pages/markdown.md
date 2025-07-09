@@ -20,7 +20,7 @@ redirect_from:
   * _talks/
 * Footer: _includes/footer.html
 * Static files (like PDFs): /files/
-* Profile image (can set in _config.yml): images/profile.png
+* Profile image (can set in _config.yml): perfil.jpeg
 
 ## Tips and hints
 
@@ -88,8 +88,7 @@ Single line blockquote:
 | Header1 | Header2 | Header3 |
 |:--------|:-------:|--------:|
 | cell1   | cell2   | cell3   |
-| cell4   | ce
-ll5   | cell6   |
+| cell4   | cell5   | cell6   |
 |-----------------------------|
 | cell1   | cell2   | cell3   |
 | cell4   | cell5   | cell6   |

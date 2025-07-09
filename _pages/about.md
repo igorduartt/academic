@@ -21,19 +21,19 @@ Research Interests
 
 Education
 ======
-* PhD in Psychiatry, [University of São Paulo http://www.ufrgs.br/ufrgs/inicial]
-* Master's in Psychiatry and Behavioral Sciences [Federal university of Rio Grande do Sul http://www.ufrgs.br/ufrgs/inicial]
+* PhD in Psychiatry, [University of São Paulo](https://www.usp.br/)
+* Master's in Psychiatry and Behavioral Sciences, [Federal University of Rio Grande do Sul](http://www.ufrgs.br/ufrgs/inicial)
 * Bachelor's in Psychology
 
 Professional Experience
 ======
-* Research Assistant at [Institution]
-* Clinical Psychologist at [Institution]
-* Data Analyst at [Institution]
+* Research Assistant at University of São Paulo
+* Clinical Psychologist
+* Data Analyst
 
 Current Projects
 ======
-[You can list your current research projects and interests here]
+My current research focuses on the application of machine learning techniques to mental health data analysis, with particular emphasis on predictive modeling and clinical decision support systems.
 
 Publications
 ======
