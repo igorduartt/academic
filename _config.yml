@@ -16,7 +16,7 @@ repository               : "igorduartt/academic"
 # Site Author - The following control what appear as part of the author content on the side bar.
 author:
   # Biographic information
-  avatar           : "perfil.jpeg"
+  avatar           : "images/perfil.jpeg"
   name             : "Igor Duarte"
   pronouns         : "he/him"
   bio              : "PhD student in Psychiatry at the University of São Paulo. Specialized in data analysis and mental health, with experience in machine learning and clinical research."
